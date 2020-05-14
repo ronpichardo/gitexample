@@ -1,0 +1,5 @@
+Commands you will be using regularly, to be familiar with
+
+git add <file>
+git commit -m '<enter message for commit>'
+git push
